@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 const SITE_NAME = "Northside Family Health";
-export const SITE_URL = "https://northside-family-health.example.com";
+export const SITE_URL = "https://northside-family-health.vercel.app";
 
 /**
  * Builds a per-page Metadata object with consistent OG/Twitter defaults so
