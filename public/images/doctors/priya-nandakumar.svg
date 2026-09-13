@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait placeholder for Dr. Priya Nandakumar">
+  <defs>
+    <linearGradient id="bg-pn" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a7c9b" />
+      <stop offset="100%" stop-color="#6fa287" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-pn)" />
+  <circle cx="370" cy="30" r="120" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="40" cy="370" r="130" fill="#ffffff" fill-opacity="0.05" />
+  <text x="200" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="128" fill="#ffffff">PN</text>
+</svg>

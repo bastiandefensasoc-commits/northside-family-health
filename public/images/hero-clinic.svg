@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Illustration of a calm, welcoming clinic exam room with a doctor and patient talking">
+  <defs>
+    <linearGradient id="hero-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f1f6" />
+      <stop offset="100%" stop-color="#eaf4ee" />
+    </linearGradient>
+    <linearGradient id="hero-coat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f4f8f6" />
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="450" fill="url(#hero-bg)" />
+
+  <!-- window -->
+  <rect x="40" y="40" width="180" height="220" rx="16" fill="#ffffff" fill-opacity="0.6" />
+  <line x1="130" y1="40" x2="130" y2="260" stroke="#4a7c9b" stroke-opacity="0.25" stroke-width="4" />
+  <line x1="40" y1="150" x2="220" y2="150" stroke="#4a7c9b" stroke-opacity="0.25" stroke-width="4" />
+
+  <!-- plant -->
+  <g transform="translate(500,300)">
+    <rect x="-24" y="60" width="48" height="50" rx="8" fill="#6fa287" />
+    <path d="M0 60c0-40-40-60-60-70 20 50 20 80 60 70Z" fill="#7fb494" />
+    <path d="M0 60c0-46 46-64 66-76-16 54-18 88-66 76Z" fill="#6fa287" />
+  </g>
+
+  <!-- doctor (left) -->
+  <g transform="translate(230,150)">
+    <circle cx="0" cy="0" r="34" fill="#e6c9a8" />
+    <path d="M-60 210c0-70 30-120 60-120s60 50 60 120H-60Z" fill="url(#hero-coat)" stroke="#4a7c9b" stroke-opacity="0.15" stroke-width="2" />
+    <rect x="-10" y="70" width="20" height="60" rx="10" fill="#4a7c9b" />
+  </g>
+
+  <!-- patient (right, seated) -->
+  <g transform="translate(390,170)">
+    <circle cx="0" cy="0" r="30" fill="#c98a5e" />
+    <path d="M-52 190c0-58 24-100 52-100s52 42 52 100H-52Z" fill="#6fa287" fill-opacity="0.85" />
+  </g>
+
+  <!-- floor line -->
+  <line x1="0" y1="380" x2="600" y2="380" stroke="#4a7c9b" stroke-opacity="0.12" stroke-width="2" />
+</svg>

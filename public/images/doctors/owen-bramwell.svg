@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait placeholder for Dr. Owen Bramwell">
+  <defs>
+    <linearGradient id="bg-ob" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#57876d" />
+      <stop offset="100%" stop-color="#3a6480" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-ob)" />
+  <circle cx="30" cy="370" r="130" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="380" cy="30" r="110" fill="#ffffff" fill-opacity="0.05" />
+  <text x="200" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="128" fill="#ffffff">OB</text>
+</svg>

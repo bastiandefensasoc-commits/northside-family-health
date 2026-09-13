@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait placeholder for Dr. Amara Whitfield">
+  <defs>
+    <linearGradient id="bg-aw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4a7c9b" />
+      <stop offset="100%" stop-color="#3a6480" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-aw)" />
+  <circle cx="360" cy="40" r="140" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="20" cy="380" r="100" fill="#ffffff" fill-opacity="0.05" />
+  <text x="200" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="128" fill="#ffffff">AW</text>
+</svg>

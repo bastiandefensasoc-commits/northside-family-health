@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Portrait placeholder for Dr. Julian Reyes">
+  <defs>
+    <linearGradient id="bg-jr" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6fa287" />
+      <stop offset="100%" stop-color="#57876d" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg-jr)" />
+  <circle cx="30" cy="30" r="130" fill="#ffffff" fill-opacity="0.06" />
+  <circle cx="380" cy="370" r="110" fill="#ffffff" fill-opacity="0.05" />
+  <text x="200" y="235" text-anchor="middle" font-family="Georgia, serif" font-size="128" fill="#ffffff">JR</text>
+</svg>
